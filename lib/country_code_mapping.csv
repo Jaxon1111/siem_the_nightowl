@@ -1,0 +1,251 @@
+country_code,country,address,longitude,latitude
+AF, Afghanistan, Afghanistan Kabul,69.17764759999999,34.5260131
+AL, Albania, Albania Tirana,19.8185323,41.32794570000001
+DZ, Algeria, Algeria Algiers,3.0600650000000003,36.775348
+AD, Andorra, Andorra Andorra la Vella,1.5212466999999998,42.506939100000004
+AO, Angola, Angola Luanda,13.243951199999998,-8.827269900000001
+AI, Anguilla, Anguilla The Valley,-63.051775899999996,18.214586100000002
+AG, Antigua and Barbuda, Antigua and Barbuda St. John's,-61.8448509,17.118456899999998
+AR, Argentina, Argentina Buenos Aires,-58.437076,-34.607561600000004
+AM, Armenia, Armenia Yerevan,44.5125849,40.177612100000005
+AU, Australia, Australia Canberra,149.1012676,-35.2975906
+AT, Austria, Austria Vienna,16.372504199999998,48.2083537
+AZ, Azerbaijan, Azerbaijan Baku,49.8326748,40.3754434
+BS, Bahamas, Bahamas Nassau,-77.33833309999999,25.078345600000002
+BH, Bahrain, Bahrain Manama,50.5822436,26.223504100000003
+BD, Bangladesh, Bangladesh Dhaka,90.3788136,23.7593572
+BB, Barbados, Barbados Bridgetown,-59.6184184,13.0977832
+BY, Belarus, Belarus Minsk,27.561879100000002,53.902333999999996
+BE, Belgium, Belgium Brussels,4.351697,50.8465573
+BZ, Belize, Belize Belmopan,-88.77001800000001,17.250199
+BJ, Benin, Benin Porto Novo,2.6253361,6.4990718
+BM, Bermuda, Bermuda Hamilton,-64.7057782525722,32.329812100000005
+BT, Bhutan, Bhutan Thimphu,89.55247890000001,27.5583211
+BO, Bolivia, Bolivia Sucre,-65.2594306,-19.0477251
+BA, Bosnia Herzegovina, Bosnia Herzegovina Sarajevo,18.386686800000003,43.851977399999996
+BW, Botswana, Botswana Gaborone,25.908728,-24.655319
+BR, Brazil, Brazil Brasilia,-53.2,-10.333333300000001
+IO, British Indian Ocean Territory, British Indian Ocean Territory,72.1173961,-6.4157192
+BN, Brunei Darussalam, Brunei Darussalam Bandar Seri Begawan,114.9417574,4.8895453
+BG, Bulgaria, Bulgaria Sofia,23.322178899999997,42.697863399999996
+BF, Burkina Faso, Burkina Faso Ouagadougou,-1.527085,12.368148
+BI, Burundi, Burundi Bujumbura,29.3675028,-3.3638125
+CV, Cabo Verde, Cabo Verde Praia,-23.509613199999997,14.916016899999999
+KH, Cambodia, Cambodia Phnom Penh,104.9224426,11.568271000000001
+CM, Cameroon, Cameroon Yaoundé,11.521334399999999,3.8689867
+CA, Canada, Canada Ottawa,-75.690308,45.421106
+KY, Cayman Islands, Cayman Islands,-80.5667132,19.5417212
+CF, Central African Republic, Central African Republic Bangui,18.5509126,4.3907153
+TD, Chad, Chad N'Djamena,15.0502758,12.1191543
+CL, Chile, Chile Santiago,-70.65044509999998,-33.4377968
+CN, China, China Beijing,116.3912757,39.906217
+CO, Colombia, Colombia Bogota,-74.0760439,4.59808
+KM, Comoros, Comoros Moroni,43.2543044,-11.6931255
+CG, Congo, Congo Brazzaville,15.2712256,-4.2694407
+CD, Democratic Republic of the Congo, Democratic Republic of the Kinshasa,15.312597400000001,-4.3217055
+CK, Cook Islands, Cook Islands,-160.3554851,-16.0492781
+CR, Costa Rica, Costa Rica San José,-84.0795782,9.932542699999999
+CI, Côte d'Ivoire, Côte d'Ivoire Yamoussoukro,-5.282327700000001,6.869145
+HR, Croatia, Croatia Zagreb,15.977048000000002,45.813177
+CU, Cuba, Cuba Havana,-82.3589631,23.135305
+CY, Cyprus, Cyprus Nicosia,33.3736958666529,35.180282
+CZ, Czechia, Czechia Prague,14.4212535,50.0874654
+DJ, Djibouti, Djibouti Djibouti,42.757784519943705,11.85677545
+DM, Dominica, Dominica Roseau,-61.3872868,15.299192300000001
+DO, Dominican Republic, Dominican Republic Santo Domingo,-69.942111,18.4801972
+EC, Ecuador, Ecuador Quito,-78.5123274,-0.2201641
+EG, Egypt, Egypt Cairo,31.243665999999997,30.048819
+SV, El Salvador, El Salvador San Salvador,-89.1914249,13.698993900000001
+GQ, Equatorial Guinea, Equatorial Guinea Malabo,8.780061,3.752828
+ER, Eritrea, Eritrea Asmara,38.9326763,15.338966699999999
+EE, Estonia, Estonia Tallinn,24.745368799999998,59.4372155
+SZ, Eswatini, Eswatini Mbabane,31.144663,-26.325745
+ET, Ethiopia, Ethiopia Addis Ababa,38.761252500000005,9.0107934
+FK, Falkland Islands (Malvinas), Falkland Islands (Malvinas),-59.5500387,-51.9666424
+FO, Faroe Islands, Faroe Islands,-6.81741243341217,62.19850045
+FJ, Fiji, Fiji Suva,178.44216619999997,-18.1415884
+FI, Finland, Finland Helsinki,24.9425683,60.1674086
+FR, France, France Paris,2.3514992,48.856610100000005
+GA, Gabon, Gabon Libreville,9.454001,0.390002
+GM, Gambia, Gambia Banjul,-16.575646,13.45535
+GE, Georgia, Georgia Tbilisi,44.8014495,41.6934591
+DE, Germany, Germany Berlin,13.388859900000002,52.517036499999996
+GH, Ghana, Ghana Accra,-0.2057437,5.560014099999999
+GI, Gibraltar, Gibraltar,-5.3541295,36.140807
+GR, Greece, Greece Athens,23.7279843,37.9841493
+GL, Greenland, Greenland,-42.8125967,77.61923490000001
+GD, Grenada, Grenada St. George's,-61.751805000000004,12.0535331
+GT, Guatemala, Guatemala Guatemala City,-90.5185188,14.6222328
+GG, Guernsey, Guernsey,-2.58120225032944,49.46229125
+GN, Guinea, Guinea Conakry,-13.6998434,9.5170602
+GW, Guinea-Bissau, Guinea-Bissau Bissau,-15.583054999999998,11.861324
+GY, Guyana, Guyana Georgetown,-58.16286120000001,6.8025766
+HT, Haiti, Haiti Port-au-Prince,-72.33959279999999,18.547327
+VA, Holy See, Holy See Vatican City,12.452834900000001,41.9034912
+HN, Honduras, Honduras Tegucigalpa,-87.20126309999999,14.093191899999999
+HU, Hungary, Hungary Budapest,19.0404707,47.4983815
+IS, Iceland, Iceland Reykjavík,-21.7692635721513,64.24450355
+IN, India, India New Delhi,77.2022662,28.6141793
+ID, Indonesia, Indonesia Jakarta,106.827183,-6.1753942
+IR, Iran, Iran Tehran,51.4013785,35.7006177
+IQ, Iraq, Iraq Baghdad,44.3787992,33.3024309
+IE, Ireland, Ireland Dublin,-6.2602732,53.3497645
+IM, Isle of Man, Isle of Man,-4.51459874569825,54.2358167
+IL, Israel, Israel Jerusalem,35.2250786,31.778345
+IT, Italy, Italy Rome,12.4853384,41.894802
+JM, Jamaica, Jamaica Kingston,-76.79281280000001,17.971214800000002
+JP, Japan, Japan Tokyo,139.7594549,35.682838700000005
+JE, Jersey, Jersey,-2.12559995964288,49.21230655
+JO, Jordan, Jordan Amman,35.9239625,31.951569399999997
+KZ, Kazakhstan, Kazakhstan Astana,71.4388595154859,51.15092055
+KE, Kenya, Kenya Nairobi,36.8172449,-1.2832533000000002
+KI, Kiribati, Kiribati Tarawa,172.968964820009,1.4845542
+KP, North Korea, North Korea Pyongyang,125.75338799999999,39.019474100000004
+KR, Republic of Korea, Republic of Korea Seoul,126.97829140000002,37.5666791
+KW, Kuwait, Kuwait Kuwait City,47.9735629,29.379709100000003
+KG, Kyrgyzstan, Kyrgyzstan Bishkek,74.6069949,42.8767446
+LA, Lao People's Democratic Republic, Lao People's Democratic Republic Vientiane,102.6133707,17.964098800000002
+LV, Latvia, Latvia Riga,24.1051846,56.949397700000006
+LB, Lebanon, Lebanon Beirut,35.478429999999996,33.8959203
+LS, Lesotho, Lesotho Maseru,27.478222,-29.310053999999997
+LR, Liberia, Liberia Monrovia,-10.797788,6.328034
+LY, Libya, Libya Tripoli,13.1777923,32.896671999999995
+LI, Liechtenstein, Liechtenstein Vaduz,9.5227962,47.1392862
+LT, Lithuania, Lithuania Vilnius,25.2829111,54.6870458
+LU, Luxembourg, Luxembourg Luxembourg,6.1296751,49.8158683
+MG, Madagascar, Madagascar Antananarivo,47.5255809,-18.9100122
+MW, Malawi, Malawi Lilongwe,33.9301963,-13.2687204
+MY, Malaysia, Malaysia Kuala Lumpur,101.69430279999999,3.1516636
+MV, Maldives, Maldives Malé,73.5107387,4.1779879
+ML, Mali, Mali Bamako,-7.986513673439361,12.60503275
+MT, Malta, Malta Valletta,14.513675899999999,35.898981799999994
+MH, Marshall Islands, Marshall Islands Majuro,171.3816354,7.0909924
+MR, Mauritania, Mauritania Nouakchott,-15.9780071,18.0792379
+MU, Mauritius, Mauritius Port Louis,57.5045331,-20.1637281
+MX, Mexico, Mexico Mexico City,-99.1333416,19.4326009
+FM, Micronesia (Federated States of), Micronesia (Federated States of) Palikir,158.1627143,6.920744
+MD, Republic of Moldova, Republic of Chisinau,28.8322534,47.0244707
+MC, Monaco, Monaco Monaco,7.47616101640138,43.63071345
+MN, Mongolia, Mongolia Ulaanbaatar,106.96672419388099,47.949809
+ME, Montenegro, Montenegro Podgorica,19.2621081,42.4415238
+MS, Montserrat, Montserrat,-62.19168440000001,16.7417041
+MA, Morocco, Morocco Rabat,-6.834542999999999,34.022405
+MZ, Mozambique, Mozambique Maputo,32.56745,-25.966213
+MM, Myanmar, Myanmar Naypyidaw,96.13449759999999,19.7540045
+NA, Namibia, Namibia Windhoek,17.0791233,-22.5744184
+NR, Nauru, Nauru Yaren,166.922628264555,-0.5470855
+NP, Nepal, Nepal Kathmandu,85.32024399999999,27.708796000000003
+NL, Netherlands, Netherlands Amsterdam,4.89797550561798,52.3745403
+NZ, New Zealand, New Zealand Wellington,174.7772114,-41.2887953
+NI, Nicaragua, Nicaragua Managua,-86.273717,12.146124400000001
+NE, Niger, Niger Niamey,2.109823,13.524834
+NG, Nigeria, Nigeria Abuja,7.4892974,9.064330499999999
+NU, Niue, Niue,-169.86134109999998,-19.0536414
+NF, Norfolk Island, Norfolk Island,167.9475742,-29.030865600000002
+MK, North Macedonia, North Macedonia Skopje,21.4316495,41.9960924
+NO, Norway, Norway Oslo,10.7389701,59.913330099999996
+OM, Oman, Oman Muscat,58.5514017715319,23.512549800000002
+PK, Pakistan, Pakistan Islamabad,72.9230467027632,33.63573935
+PW, Palau, Palau Melekeok,134.636753,7.4954144
+PS, State of Palestine, State of East Jerusalem,35.034490500000004,32.1142635
+PA, Panama, Panama Panama City,-79.53418020000001,8.9714493
+PG, Papua New Guinea, Papua New Guinea Port Moresby,147.15995039999999,-9.4743301
+PY, Paraguay, Paraguay Asunción,-57.6343814,-25.280045899999998
+PE, Peru, Peru Lima,-77.03652559999999,-12.0621065
+PH, Philippines, Philippines Manila,120.9799696,14.590621599999999
+PN, Pitcairn, Pitcairn,-130.1017823,-25.065771899999998
+PL, Poland, Poland Warsaw,21.0714111288323,52.2337172
+PT, Portugal, Portugal Lisbon,-9.1365919,38.707750700000005
+QA, Qatar, Qatar Doha,51.5264162,25.2856329
+RO, Romania, Romania Bucharest,26.1027202,44.4361414
+RU, Russian Federation, Russian Federation Moscow,37.6174943,55.7504461
+RW, Rwanda, Rwanda Kigali,30.1296751,-1.8859596999999997
+SH, Ascension and Tristan da Cunha Saint Helena, Ascension and Tristan da Cunha,-5.7129557,-15.968686199999999
+KN, Saint Kitts and Nevis, Saint Kitts and Nevis Basseterre,-62.722301,17.2960919
+LC, Saint Lucia, Saint Lucia Castries,-60.9878235312987,13.95258925
+VC, Saint Vincent and the Grenadines, Saint Vincent and the Grenadines Kingstown,-61.227962100000006,13.1561864
+WS, Samoa, Samoa Apia,-171.7692793,-13.8343691
+SM, San Marino, San Marino San Marino,12.458306,43.945862299999995
+ST, Sao Tome and Principe, Sao Tome and Principe São Tomé,6.7313031,0.3389242
+SA, Saudi Arabia, Saudi Arabia Riyadh,46.7150648,24.631969199999997
+SN, Senegal, Senegal Dakar,-17.447938,14.693425
+RS, Serbia, Serbia Belgrade,20.4568974,44.8178131
+SC, Seychelles, Seychelles Victoria,55.452358999999994,-4.6232085
+SL, Sierra Leone, Sierra Leone Freetown,-13.26795,8.479004
+SG, Singapore, Singapore Singapore,103.878446863736,1.3408528
+SK, Slovakia, Slovakia Bratislava,17.1093063,48.1516988
+SI, Slovenia, Slovenia Ljubljana,14.506782399999999,46.0498146
+SB, Solomon Islands, Solomon Islands Honiara,159.9552773,-9.431297099999998
+SO, Somalia, Somalia Mogadishu,45.338564,2.0427779999999998
+ZA, South Africa, South Africa Pretoria,28.187944399999996,-25.7459374
+GS, South Georgia and the South Sandwich Islands, South Georgia and the South Sandwich Islands,-35.809069799999996,-54.84328570000001
+SS, South Sudan, South Sudan Juba,31.595165500000004,4.8472017
+ES, Spain, Spain Madrid,-3.7035824999999996,40.416704700000004
+LK, Sri Lanka, Sri Lanka Sri Jayawardenapura Kotte,79.91874150000001,6.888321899999999
+SD, Sudan, Sudan Khartoum,32.53565,15.593325
+SR, Suriname, Suriname Paramaribo,-55.1770432,5.821609099999999
+SE, Sweden, Sweden Stockholm,18.0710935,59.3251172
+CH, Switzerland, Switzerland Bern,7.4514512,46.9482713
+SY, Syrian Arab Republic, Syrian Arab Republic Damascus,36.3095814,33.5130695
+TW, Province of China Taiwan, Province of China[a] Taipei,121.56367959999999,25.037519800000002
+TJ, Tajikistan, Tajikistan Dushanbe,68.8152131865304,38.5425835
+TZ, United Republic of Tanzania, United Republic of Dodoma,35.7468174,-6.179118099999999
+TH, Thailand, Thailand Bangkok,100.8160803,13.7538929
+TL, Timor-Leste, Timor-Leste Dili,125.57840929999999,-8.553680900000002
+TG, Togo, Togo Lomé,1.215829,6.130419
+TK, Tokelau, Tokelau,-171.8196878,-9.1676396
+TO, Tonga, Tonga Nukualofa,-175.2018085,-21.134340100000003
+TT, Trinidad and Tobago, Trinidad and Tobago Port of Spain,-61.5180173,10.657267800000001
+TN, Tunisia, Tunisia Tunis,9.400138,33.8439408
+TR, Turkey, Turkey Ankara,32.854067,39.9207774
+TM, Turkmenistan, Turkmenistan Ashgabat,58.382278799999995,37.9404379
+TC, Turks and Caicos Islands, Turks and Caicos Islands,-71.62017829999999,21.7214683
+TV, Tuvalu, Tuvalu Funafuti,179.11864963425202,-8.53499465
+UG, Uganda, Uganda Kampala,32.581353899999996,0.31771370000000004
+UA, Ukraine, Ukraine Kiev,30.524136100000003,50.4500336
+AE, United Arab Emirates, United Arab Emirates Abu Dhabi,53.6439097569213,23.99764435
+GB, United Kingdom, United Kingdom London,-0.1276474,51.5073219
+US, United States, United States Washington D.C.,-77.0365625,38.8950092
+UM, United States Minor Outlying Islands, United States Minor Outlying Islands,-162.407309978782,6.4295092
+UY, Uruguay, Uruguay Montevideo,-56.1913569,-34.9059039
+UZ, Uzbekistan, Uzbekistan Tashkent,69.2787079,41.3123363
+VU, Vanuatu, Vanuatu Port Vila,168.31501630000002,-17.741497199999998
+VE, Venezuela (Bolivarian Republic of), Venezuela (Bolivarian Republic of) Caracas,-66.9146017,10.506098
+VN, Vietnam, Viet Nam Hanoi,105.85444409999998,21.029449800000002
+VG, Virgin Islands (British), Virgin Islands (British),-64.5661642,18.4024395
+EH, Western Sahara, Western Sahara,-13.7667848,24.1797324
+YE, Yemen, Yemen Sana'a,44.2005197,15.342101000000001
+ZM, Zambia, Zambia Lusaka,28.282153499999996,-15.416448800000001
+ZW, Zimbabwe, Zimbabwe Harare,31.045686,-17.831773000000002
+AX, Åland Islands, Åland Islands Mariehamn,19.94126,60.102422999999995
+AS, American Samoa, American Samoa Pago Pago,-170.70482980000003,-14.2754786
+AQ, Antarctica, Antarctica,0.31493119999999997,-79.4063075
+AW, Aruba, Aruba Oranjestad,-70.0356845,12.526873599999998
+BQ, Sint Eustatius and Saba Bonaire, Sint Eustatius and Saba,-68.2909680033101,12.167
+BV, Bouvet Island, Bouvet Island,3.35744155625,-54.4215
+CX, Christmas Island, Christmas Island,105.61735148979601,-10.49124145
+CC, Cocos (Keeling) Islands, Cocos (Keeling) Islands,96.8409375,-12.0728315
+CW, Curaçao, Curaçao,-68.9640918594077,12.1845
+DK, Denmark, Denmark Copenagen,27.912238000000002,-26.039009399999998
+GF, French Guiana, French Guiana,-52.999998,4.0039882
+PF, French Polynesia, French Polynesia,-144.6434898,-17.024374899999998
+TF, French Southern Territories, French Southern Territories,63.8604556,-44.1511785
+GP, Guadeloupe, Guadeloupe,-61.565044400000005,16.2490067
+GU, Guam, Guam,144.757551029721,13.4501257
+HM, Heard Island and McDonald Islands, Heard Island and McDonald Islands,72.955751,-53.0166353
+HK, Hong Kong, Hong Kong,114.16281310000001,22.2793278
+MO, Macao, Macao,113.5514142,22.175760500000003
+MQ, Martinique, Martinique,-61.015826850637296,14.636792699999999
+YT, Mayotte, Mayotte,45.1520755,-12.823048
+NC, New Caledonia, New Caledonia,164.55660583078,-20.4542886
+MP, Northern Mariana Islands, Northern Mariana Islands,145.213452483189,14.149020499999999
+PR, Puerto Rico, Puerto Rico,-66.4132818505648,18.22141715
+RE, Réunion, Réunion,55.526577100000004,-21.1309332
+BL, Saint Barthélemy, Saint Barthélemy,-62.811568843006896,17.9036287
+MF, Saint Martin (French part), Saint Martin (French part),-63.046713100000005,18.0814066
+PM, Saint Pierre and Miquelon, Saint Pierre and Miquelon,-56.212055500000005,46.8374544
+SX, Sint Maarten (Dutch part), Sint Maarten (Dutch part),-63.054994799999996,18.0423736
+SJ, Svalbard and Jan Mayen, Svalbard and Jan Mayen,20.3493328,78.71985190000001
+VI, Virgin Islands (U.S.), Virgin Islands (U.S.),,
+WF, Wallis and Futuna, Wallis and Futuna,-64.7080574,17.789187
+EU, European Union, European Union, 48.1322498, 4.1720587
