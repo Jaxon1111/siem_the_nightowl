@@ -1,6 +1,6 @@
 ﻿
 # Introduction  
-siem_the_nightowl is a code that reports IP addresses and Domain's CVE vulnerabilities, certificates, and risk scores. Registering mail information sends a security check mail when a vbulnerability is found. This program uses Criminal IP's API, and this site has 10k credits available monthly.  
+siem_the_nightowl is a code that reports IP addresses and Domain's CVE vulnerabilities, certificates, and risk scores. Registering mail information sends a security check mail when a vbulnerability is found. This program uses Criminal IP's API, and this site has monthly credits available to users even with just a free account.
   
   
 # Prerequisites  
